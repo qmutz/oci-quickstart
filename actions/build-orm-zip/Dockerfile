@@ -1,4 +1,4 @@
-FROM ubuntu
+FROM ubuntu:kinetic
 
 LABEL "name"="Build ORM Zip"
 LABEL "version"="1.0"
