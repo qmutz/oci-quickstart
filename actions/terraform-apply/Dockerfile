@@ -1,4 +1,4 @@
-FROM golang
+FROM golang:1.22.5
 
 LABEL "name"="Terraform Apply"
 LABEL "version"="1.0"
