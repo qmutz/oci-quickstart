@@ -1,4 +1,4 @@
-FROM golang
+FROM golang:1.23rc2
 
 LABEL "name"="Create Image"
 LABEL "version"="1.0"
